@@ -85,7 +85,8 @@ The following elements are needed to be ready before the test execution phase be
 
 ### 1.6 Test Execution <br> 
 - test cases are executed on the created test Cycle summary
-- bugs have been created based on the failed tests. The complete bug reports can be found 
+- bugs have been created based on the failed tests. The complete bug reports can be found [here](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/blob/main/Final%20Project/Jira%20and%20Zephyr%20Reports/Bug%20Reports.pdf). <br> 
+- full regression testing is needed after the bugs are fixed
 
 
 
