@@ -10,7 +10,7 @@ For creating and updating a database with its tables I have used MySQL Workbench
 This project will be divided into 3 sections: [Testing Section](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/blob/main/README.md#Testing-Section), [API Section](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/blob/main/README.md#API-Section) and [SQL Section](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/blob/main/README.md#SQL-Section). <br>  
 ## 1 Testing Section <br> 
 ### 1.1 Test Planning <br> 
-The Test Plan is designed to describe all details of testing for the Admin Modul of the OrangeHRM application. <br> 
+The Test Plan is designed to describe all details of testing for the Admin Modul of the OrangeHRM application. <br>  
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. <br> 
 #### 1.1.1 Roles assigned to the project and persons allocated <br> 
 - Project manager - Grigore Manda
