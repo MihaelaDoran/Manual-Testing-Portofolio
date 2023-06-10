@@ -75,7 +75,18 @@ The following test conditions were found for the Job section (Job Titles, Pay gr
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing. <br> 
 
 ![Test cases printscreen](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/assets/131185471/2eaf3cc0-66da-4f2e-9067-a54f55695638) <br> 
-The test cases with steps can be viewed 
+The test cases report with all the steps can be viewed [here](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/blob/main/Final%20Project/Jira%20and%20Zephyr%20Reports/Test%20Cases%20Report.xlsx). <br> 
+### 1.5 Test Implementation <br> 
+The following elements are needed to be ready before the test execution phase begins:
+- testing environment is up and running: [OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers)
+- access to the testing environment is given: **Username : Admin | Password : admin123**
+- cycle summary was created
+- all test cases were added to the cycle summary <br> 
+
+### 1.6 Test Execution <br> 
+- test cases are executed on the created test Cycle summary
+- bugs have been created based on the failed tests. The complete bug reports can be found 
+
 
 
 
