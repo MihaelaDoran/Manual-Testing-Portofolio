@@ -95,7 +95,8 @@ The following elements are needed to be ready before the test execution phase be
 - a number of 42 test cases were planned for execution and all of them were executed <br> 
 
 ## 2 API Section <br> 
-API tests were executed in Postman. The collection can be found [here](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md) and the JSON file with the collection of requests can be found 
+API tests were executed in Postman. The collection can be found [here](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md) and the JSON file with the collection of requests can be found [here](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/blob/main/Final%20Project/Simple%20Books.postman_collection.json). <br> 
+
 
 
 
