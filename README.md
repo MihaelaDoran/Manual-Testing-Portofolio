@@ -52,7 +52,7 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. 
 The following status report was generated after 100% of the test cases were executed, on 27 of March 2023: <br> 
 
-
+![Test Execution Report1](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/assets/131185471/21318909-6138-4f2c-b150-6700c40bfd2e)
 
 
 
