@@ -97,6 +97,8 @@ The following elements are needed to be ready before the test execution phase be
 ## 2 API Section <br> 
 API tests were executed in Postman. The collection can be found [here](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md) and the JSON file with the collection of requests can be found [here](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/blob/main/Final%20Project/Simple%20Books.postman_collection.json). <br> 
 
-
+![print screen E2E simple books1](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/assets/131185471/efabdb0d-e895-4048-acb6-05b2e215b1a7) <br> 
+## 3 SQL Section <br> 
+I have created a new database for [OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index) application, where I have created 2 tables that I have used for performing different queries. The database can be found 
 
 
