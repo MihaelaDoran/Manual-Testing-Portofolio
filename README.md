@@ -32,7 +32,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 - desired and sufficient coverage of the requirements and functionalities under the test
 - exploratory regression testing must be performed on the Admin module, which includes the "User Management" and "Job" sections <br> 
 #### 1.1.4 Test scope <br> 
-- **Tests in scope:** All the feature of Admin module which were defined in software requirement specs need to be tested: functional testing, GUI testing
+- **Tests in scope:** all the feature of Admin module which were defined in software requirement specs need to be tested: functional testing, GUI testing
 - **Tests not in scope:** performance testing, integration testing, compatibility testing with multiple browsers <br> 
 #### 1.1.5 Risks detected <br> 
 **Project risks:** 
