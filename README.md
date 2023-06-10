@@ -99,6 +99,6 @@ API tests were executed in Postman. The collection can be found [here](https://g
 
 ![print screen E2E simple books1](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/assets/131185471/efabdb0d-e895-4048-acb6-05b2e215b1a7) <br> 
 ## 3 SQL Section <br> 
-I have created a new database for [OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index) application, where I have created 2 tables that I have used for performing different queries. The database can be found 
+I have created a new database for [OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index) application, where I have created 2 tables that I have used for performing different queries. The database can be found [here](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/blob/main/Final%20Project/OrangeHRM%20Database.sql).
 
 
