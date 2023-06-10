@@ -7,7 +7,7 @@ The application that I have performed my majority of tests is [OrangeHRM](https:
 the "User Management" and "Job" sections. The requirements for this application can be found [here](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf) and the tools that I have used for managing project and creating test cases are Jira Software and Zephyr  Squad. <br>  
 For Rest API testing of [Simple Books](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md) I have used Postman. <br>  
 For creating and updating a database with its tables I have used MySQL Workbench tool. <br>  
-This project will be divided into 2 sections: [Testing Section](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/blob/main/README.md#Testing-Section) and [SQL Section](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/blob/main/README.md#SQL-Section). <br>  
+This project will be divided into 3 sections: [Testing Section](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/blob/main/README.md#Testing-Section), [API Section](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/blob/main/README.md#API-Section) and [SQL Section](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/blob/main/README.md#SQL-Section). <br>  
 ## 1 Testing Section <br> 
 ### 1.1 Test Planning <br> 
 The Test Plan is designed to describe all details of testing for the Admin Modul of the OrangeHRM application. <br> 
@@ -52,7 +52,27 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. 
 The following status report was generated after 100% of the test cases were executed, on 27 of March 2023: <br> 
 
-![Test Execution Report1](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/assets/131185471/21318909-6138-4f2c-b150-6700c40bfd2e)
+![Test Execution Report1](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/assets/131185471/21318909-6138-4f2c-b150-6700c40bfd2e) <br> 
+### 1.3 Test Analysis <br> 
+The testing process will be executed based on the above requirements for the Admin module. 
+The following test conditions for the User Management section were found: 
+- enter data only for mandatory fields and check that the user is added/edited
+- leave mandatory fields empty and check that the user cannot be added/edited
+- enter data for all available fields and check that you can search for a user
+- view all users in a list
+- verify if you can delete one or more users
+- check all validation constraints for the fields <br> 
+
+The following test conditions were found for the Job section (Job Titles, Pay grades, Employment Status, Job Categories, Work Shifts):
+- enter data only for mandatory fields and check that the entry for Job (Job Titles/ Pay grades/ Employment Status/ Job Categories/ Work Shifts) is added/edited
+- leave mandatory fields empty and check that the entry for Job (Job Titles/ Pay grades/ Employment Status/ Job Categories/ Work Shifts) cannot be added/edited
+- enter data for all available fields and check that you can search for an entry in the Job section (Job Titles/ Pay grades/ Employment Status/ Job Categories/ Work Shifts)
+- view all entries for Job section (Job Titles/ Pay grades/ Employment Status/ Job Categories/ Work Shifts) in a list
+- verify if you can delete one or more entries from Job (Job Titles/ Pay grades/ Employment Status/ Job Categories/ Work Shifts)
+- check all validation constraints for the field <br> 
+
+### 1.4 Test Design <br> 
+Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
 
 
 
