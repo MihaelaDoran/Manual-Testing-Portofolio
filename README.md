@@ -39,6 +39,18 @@ The plan identifies the items to be tested, the features to be tested, the types
 - lack of experience of the QA team
 - lack of clarity in requirements
 - short deadline of Zephyr Squad trial
-- unavailability of test environment
+- unavailability of test environment <br> 
 
-             
+**Product risks:**
+- validation constraints on the fields might be too restrictive to the end-user
+- application doesn't perform some functions as per specifications
+- application does not function as per user expectations <br> 
+
+#### 1.1.6 Evaluating entry criteria
+The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. <br> 
+### 1.2 Test Monitoring and Control <br> 
+Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. 
+The following status report was generated after 100% of the test cases were executed, on 27 of March 2023: <br> 
+
+
+
