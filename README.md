@@ -74,7 +74,8 @@ The following test conditions were found for the Job section (Job Titles, Pay gr
 ### 1.4 Test Design <br> 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing. <br> 
 
- 
+![Test cases printscreen](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/assets/131185471/2eaf3cc0-66da-4f2e-9067-a54f55695638) <br> 
+The test cases with steps can be viewed 
 
 
 
