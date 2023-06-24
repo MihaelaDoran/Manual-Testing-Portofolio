@@ -91,7 +91,7 @@ The following elements are needed to be ready before the test execution phase be
 ### 1.7 Test Completion <br> 
 - the exit criteria were met and satisfied
 - the traceability matrix was generated and can be found [here](https://github.com/MihaelaDoran/Manual-Testing-Portofolio/blob/main/Final%20Project/Jira%20and%20Zephyr%20Reports/Traceability_Matrix.xlsx) 
-- test execution chart was generated, the final report shows that a number 12 tests have failed out of a total of 42
+- test execution chart was generated, the final report shows that a number 11 tests have failed out of a total of 42
 - a number of 42 test cases were planned for execution and all of them were executed <br> 
 
 ## 2 API Section <br> 
